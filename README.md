@@ -134,20 +134,15 @@ python evaluate.py
 
 ---
 
-## 👨‍💻 Contributors
-- **Your Name** (@yourgithub)
-- **Team Member 2** (@github)
-- **Team Member 3** (@github)
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 👥 Collaborators
+- [Siddarth Singh](https://github.com/siddharth02004)
+- [Agrim Raj](https://github.com/username3)
+- [Ayushman Soni](https://github.com/AyushmanSoni)
 
 ---
 
 ## 📢 Contact
-For questions or collaborations, feel free to reach out via **[your.email@example.com](mailto:your.email@example.com)**
+For questions or collaborations, feel free to reach out via **[soniayushman012@gmail.com](mailto:soniayushman012@gmail.com)**
 
 ---
 
