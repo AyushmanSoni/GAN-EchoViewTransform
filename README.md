@@ -38,7 +38,7 @@ Each model was trained separately to ensure stability, and the best-performing a
 ---
 
 ## 📂 Dataset Preparation
-
+![Dataset Preprocessing](assests/preprocess.png)
 - We use echocardiographic images in **NIfTI format**.
 - Images are normalized to a range of `[0,1]`.
 - GAN-compatible preprocessing scales images to `[-1,1]`.
@@ -60,6 +60,7 @@ def load_nifti(file_path):
 
 ## ⚙ Model Architecture
 The project follows the standard **GAN structure**:
+![Model Architecture](assests/model.png)
 ### **1️⃣ Generator**
 - Uses a **U-Net-inspired architecture** to generate A4C from A2C.
 - Learns transformations with segmentation-guided features.
